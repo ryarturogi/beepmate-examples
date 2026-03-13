@@ -1,5 +1,5 @@
 import { jest } from '@jest/globals';
-import { BeepMateClient } from './beepmate.js';
+import { BeepMateClient } from './beepmate-javascript-example.js';
 
 // Mock the global fetch API
 global.fetch = jest.fn();

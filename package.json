@@ -2,7 +2,7 @@
   "name": "beepmate-examples",
   "version": "1.0.0",
   "description": "BeepMate API examples in JavaScript and TypeScript",
-  "main": "beepmate.js",
+  "main": "beepmate-javascript-example.js",
   "type": "module",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
